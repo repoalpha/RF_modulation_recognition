@@ -1,6 +1,6 @@
 # RF_modulation_recognition
 
-This repo undates the research in the paper cited here by https://arxiv.org/abs/1602.04105
+This repo unpates the research paper cited here at https://arxiv.org/abs/1602.04105
 
 The updates are as follows:
 
